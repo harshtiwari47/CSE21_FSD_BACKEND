@@ -1,0 +1,10 @@
+1.ode .-open vs code editor
+2.git hub repo
+3. git bash-connect local machine project to cloud
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/satwikteotia/test.git
+git push -u origin main
+//day 2 js concept function ,arrowfunction and callback
