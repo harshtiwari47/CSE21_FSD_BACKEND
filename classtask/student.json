@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "age": 20,
+    "gender": "Female",
+    "grade": "A",
+    "course": "Computer Science",
+    "email": "alice.johnson@example.com",
+    "phone": "+1-555-1001",
+    "city": "New York"
+  },
+  {
+    "id": 2,
+    "name": "Brian Smith",
+    "age": 21,
+    "gender": "Male",
+    "grade": "B+",
+    "course": "Mechanical Engineering",
+    "email": "brian.smith@example.com",
+    "phone": "+1-555-1002",
+    "city": "Chicago"
+  },
+  {
+    "id": 3,
+    "name": "Catherine Lee",
+    "age": 19,
+    "gender": "Female",
+    "grade": "A-",
+    "course": "Mathematics",
+    "email": "catherine.lee@example.com",
+    "phone": "+1-555-1003",
+    "city": "San Francisco"
+  },
+  {
+    "id": 4,
+    "name": "David Brown",
+    "age": 22,
+    "gender": "Male",
+    "grade": "B",
+    "course": "Physics",
+    "email": "david.brown@example.com",
+    "phone": "+1-555-1004",
+    "city": "Seattle"
+  },
+  {
+    "id": 5,
+    "name": "Emma Davis",
+    "age": 20,
+    "gender": "Female",
+    "grade": "A+",
+    "course": "Biology",
+    "email": "emma.davis@example.com",
+    "phone": "+1-555-1005",
+    "city": "Boston"
+  },
+  {
+    "id": 6,
+    "name": "Frank Wilson",
+    "age": 23,
+    "gender": "Male",
+    "grade": "C+",
+    "course": "Chemistry",
+    "email": "frank.wilson@example.com",
+    "phone": "+1-555-1006",
+    "city": "Dallas"
+  },
+  {
+    "id": 7,
+    "name": "Grace Miller",
+    "age": 21,
+    "gender": "Female",
+    "grade": "B-",
+    "course": "Economics",
+    "email": "grace.miller@example.com",
+    "phone": "+1-555-1007",
+    "city": "Denver"
+  },
+  {
+    "id": 8,
+    "name": "Henry Taylor",
+    "age": 20,
+    "gender": "Male",
+    "grade": "A",
+    "course": "History",
+    "email": "henry.taylor@example.com",
+    "phone": "+1-555-1008",
+    "city": "Austin"
+  },
+  {
+    "id": 9,
+    "name": "Isabella Anderson",
+    "age": 19,
+    "gender": "Female",
+    "grade": "B+",
+    "course": "Psychology",
+    "email": "isabella.anderson@example.com",
+    "phone": "+1-555-1009",
+    "city": "Miami"
+  },
+  {
+    "id": 10,
+    "name": "Jack Thomas",
+    "age": 22,
+    "gender": "Male",
+    "grade": "A-",
+    "course": "Business Administration",
+    "email": "jack.thomas@example.com",
+    "phone": "+1-555-1010",
+    "city": "Los Angeles"
+  }
+]
