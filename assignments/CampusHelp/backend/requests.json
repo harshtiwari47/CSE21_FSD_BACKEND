@@ -1,0 +1,46 @@
+[
+  {
+    "id": "REQ-1001",
+    "studentName": "Aarav Sharma",
+    "email": "aarav.sharma@campus.edu",
+    "category": "IT & Network Support",
+    "problemDescription": "High-latency and intermittent disconnects on Eduroam Wi-Fi in the Central Library Level 2 study hall.",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-09-29T03:17:15.177Z",
+    "updatedAt": "2026-09-30T01:17:15.179Z"
+  },
+  {
+    "id": "REQ-1002",
+    "studentName": "Maya Chen",
+    "email": "m.chen@campus.edu",
+    "category": "Facilities & Maintenance",
+    "problemDescription": "HVAC thermostat unit in Science Quad Lab 304 is stuck at 16°C and causing condensation on glassware.",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-09-29T11:17:15.179Z",
+    "updatedAt": "2026-09-29T11:17:15.179Z"
+  },
+  {
+    "id": "REQ-1003",
+    "studentName": "David Kalu",
+    "email": "david.kalu@campus.edu",
+    "category": "Hostel & Housing",
+    "problemDescription": "North Hall Room 112 door latch sticking intermittently; requires manual jiggle to lock from outside.",
+    "priority": "Urgent",
+    "status": "Open",
+    "createdAt": "2026-09-29T23:17:15.179Z",
+    "updatedAt": "2026-09-29T23:17:15.179Z"
+  },
+  {
+    "id": "REQ-1004",
+    "studentName": "Sophia Rodriguez",
+    "email": "s.rodriguez@campus.edu",
+    "category": "Academic Services",
+    "problemDescription": "Course portal syllabus link for CS-401 returns 404 error prior to Friday submission window.",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2026-09-27T05:17:15.179Z",
+    "updatedAt": "2026-09-28T05:17:15.179Z"
+  }
+]

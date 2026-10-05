@@ -1,0 +1,4 @@
+/* Component-specific overrides for App layout */
+.app-container {
+  width: 100%;
+}
